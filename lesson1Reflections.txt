@@ -1,0 +1,28 @@
+Being able to see compare both files with in the way that diff shows it on screen makes it WAYYYYY more efficient and easy to spot the typos/changes that affected the code, both in a positive or negative way.
+The second main advantage (first one being saving time) is that when reading through a lot of code trying to find a difference it could pass by without notice (like the example with space and spacr) since the letters are not so different and would blend in a sea of text. Using diff actually shows you only the lines that have changed which in this case will let you focus on this to find the issues/advantages that a new file would bring, either to see a more efficient code or to spot issues in it.
+
+HOW COULD HAVING EASY ACCESS TO THE ENTIRE HISTORY OF A FILE MAKE YOU A MORE EFFICIENT PROGRAMMER IN THE LONG TERM?
+
+Having all the past versions saved could help you see your growth with the program and the slight changes that you have made with the pass of time, this will ensure that in the future you would be able to help yourself become better by not falling in simple mistakes done at the earlier stages of the program and would also help if you need to go back and see some of the code that could apply to the now and either create a function or use the one you had as it will have less code the far back you go.
+
+WHAT DO YOU THINK ARE THE PROS AND CONS OF MANUALLY CHOOSING WHEN TO CREATE A COMMIT, LIKE YOU DO IN GIT, vs HAVING VERSIONS AUTOMATICALLY SAVED, LIKE GOOGLE DOCS DOES?
+
+CONS: if not paying attention more than one natural commit points can be reached forgetting to save at the time cluttering the results and wasting time, lost work if any computer failure happens.
+PROS: if paying attention properly the commits could be the right size so that any changes/typos/bugs can be identified easy and fast.
+
+WHY DO YOU THINK SOME VERSION CONTROL SYSTEMS, LIKE GIT, ALLOW SAVING MULTIPLE FILES IN ONE COMMIT, WHILE OTHERS, LIKE GOOGLE DOCS, TREAT EACH FILE SEPARATELY
+
+I believe that the systems that allow the multiple files on one commit were created when they realized that there was a lot of wasted time in finding one change that was affecting multiple files, in most cases, the examples that we have like google docs, dropbox, wiki, they see all the files as individuals and don't use files that the contents are related, even though the files may be, SVN and git since it is more aimed to programming they realize that a change in a file might affect a bunch of files at the same time.
+
+
+HOW CAN YOU USE THE COMMANDS GIT LOG AND GIT DIFF TO VIEW THE HISTORY OF FILES?
+
+when looking back at the file to try to find something, the notes that were created on each commit will help identify where the major changes that I'm looking for were done, so that I can revert back to what was needed without damaging the program.
+
+HOW MIGHT USING VERSION CONTROL MAKE YOU MORE CONFIDENT TO MAKE CHANGES THAT COULD BREAK SOMETHING?
+
+Easy... if it breaks where you would need to restart the action that you want to introuduce, you can start with a clean slate on a past workable commit.
+
+NOW THAT YOU HAVE YOUR WORKSPACE SET UP, WHAT DO YOU WANT TO TRY USING GIT FOR?
+
+My first personal project, I'm still defining what it should be but it might be a semi-interactive Resume that I can have online.
