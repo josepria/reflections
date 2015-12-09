@@ -5,3 +5,7 @@ This is the starting point for git to save the instances when we commit, if ther
 HOW IS THE STAGING AREA DIFFERENT FROM THE WORKING DIRECCTORY AND THE REPOSITORY? WHAT VALUE DO YOU THINK IT OFFERS?
 
 The staging area is an in-between of files that you have ready to be commited but may need more files that haven't been finished to complete the commit, this is why it is good to have this area to work with and know what's missing and how to add it.
+
+HOW CAN YOU USE THE STAGING AREA TO MAKE SURE YOU HAVE ON COMMIT PER LOGICAL CHANGE?
+
+when changing one or multiple files and placing them in the staging area, a git diff will show you what has been modified, right here is where you can see much clearer if it is or not a logical change, or if it's a couple of them, for which you still have time to pace back a bit to make a few commits instead of one to ensure that it is one per logical change
