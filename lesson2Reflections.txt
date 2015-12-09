@@ -13,3 +13,7 @@ when changing one or multiple files and placing them in the staging area, a git 
 WHAT ARE SOME SITUATIONS WHEN BRANCHES WOULD BE HELPFUL IN KEEPING YOUR HISTORY ORGANIZED? HOW WOULD BRANCHES HELP?
 
 Major changes in the project that have multiple logical changes need to be branced out to be tested properly and be sure that it works before merging with the master branch of the repository.
+
+HOW DO THE DIAGRAMS HELP YOU VISUALIZE THE BRANCH STRUCTURE?
+
+It is a graphic representations of the branches and where they broke apart to be able to have a way of getting to the commit that we are looking for.
