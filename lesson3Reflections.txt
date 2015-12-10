@@ -1,0 +1,6 @@
+WHEN WOULD YOU WANT TO USE A REMOTE REPOSITORY RATHER THAN KEEPING ALL YOUR WORK LOCAL?
+
+Two main ways come to mind, the first one would be if you're using multiple computers, maybe at home you
+thought of something to improve your work and left your laptop at the office, you could be sharing the repository 
+with yourself. The second, and most important one, is so that you can share your project with other people
+to colaborate between all of you on the same file.
