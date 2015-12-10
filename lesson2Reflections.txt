@@ -17,3 +17,7 @@ Major changes in the project that have multiple logical changes need to be branc
 HOW DO THE DIAGRAMS HELP YOU VISUALIZE THE BRANCH STRUCTURE?
 
 It is a graphic representations of the branches and where they broke apart to be able to have a way of getting to the commit that we are looking for.
+
+WHAT IS THE RESULT OF MERGING TWO BRANCHES TOGETHER? WHY DO WE REPRESENT IT IN THE DIAGRAM THE WAY WE DO?
+
+The result is one straight-ish branch that contains all the commits and it is represented as one commit from two different ones because after the merge you can access both commit branches.
