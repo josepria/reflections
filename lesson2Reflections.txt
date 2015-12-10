@@ -21,3 +21,7 @@ It is a graphic representations of the branches and where they broke apart to be
 WHAT IS THE RESULT OF MERGING TWO BRANCHES TOGETHER? WHY DO WE REPRESENT IT IN THE DIAGRAM THE WAY WE DO?
 
 The result is one straight-ish branch that contains all the commits and it is represented as one commit from two different ones because after the merge you can access both commit branches.
+
+WHAT ARE THE PROS AND CONS OF GIT'S AUTOMATIC MERGING VS ALWAYS DOING MERGES MANUALLY?
+
+Pro - and a big one, it automatically adds all the code together as long as there is no conflict in between, even when there is, it points it out for you, it makes it very easy to add any changes that you've been working on to the final product. Cons, need to learn git I guess, if you consider that a con.
