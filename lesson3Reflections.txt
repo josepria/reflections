@@ -30,3 +30,10 @@ HOW WOULD YOU COLLABORATE WITHOUT USING GIT OR GITHUB? WHAT WOULD BE EASIER, AND
 
 By email, sending over the change that was made for approval and then applying it to the working project, it would
 make it a lot harder since they would need to check all without any help of the tools git has.
+
+WHEN WOULD YOU WANT TO MAKE CHANGES IN A SEPARATE BRANCH RATHER THAN DIRECTLY IN MASTER? WHAT BENEFITS DOES EACH
+APPROACH HAVE?
+
+A branch would be for mayor changes that will affect the whole project and want to be tested before putting them up.
+it is a bit more work but it should help a lot as you can compartmentalize the changes making sure that all the
+changes will work at the end.
