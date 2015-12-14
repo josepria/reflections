@@ -1,6 +1,21 @@
 WHEN WOULD YOU WANT TO USE A REMOTE REPOSITORY RATHER THAN KEEPING ALL YOUR WORK LOCAL?
 
 Two main ways come to mind, the first one would be if you're using multiple computers, maybe at home you
-thought of something to improve your work and left your laptop at the office, you could be sharing the repository 
+thought of something to improve your work and left your laptop at the office, you could be sharing the repository
 with yourself. The second, and most important one, is so that you can share your project with other people
 to colaborate between all of you on the same file.
+
+WHY MIGHT YOU WANT TO ALWAYS PULL CHANGES MANUALLY RATHER THAN HAVING GIT AUTOMATICALLY STAY UP-TO-DATE WITH YOUR
+REMOTE REPOSITORY?
+
+There might be changes that need to be checked before bringing to the master file if you are the person in charge
+of the project and the adds have been made by different contributors, this way the file in your local computer would
+be the master and the online one would be a "branch" of the project.
+
+DESCRIBE THE DIFFERENCES BETWEEN FORKS, CLONES AND BRANCHES. WHE WOULD YOU USE ONE INSTEAD OF ANOTHER?
+
+Fork and clone are almost the same, fork is used to copy a repository from a git-hub user to your user (all on
+github's page) where clone you would be graving a repository (either from your user or someone else) and copying it
+locally on your computer. Branches, on the other hand, are when you have a repository and you are trying something
+new, different, big change, or someone will be helping you but you want to keep the master version intact, you would
+create a branch where you can change without worry that the master work could be lost.
