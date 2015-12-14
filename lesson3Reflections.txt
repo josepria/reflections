@@ -25,3 +25,8 @@ WHAT IS THE BENEFIT OF HAVING A COPY OF THE LAST KNOWN STATE OF THE REMOTE STORE
 It allows you to check with the online version once you are ready to push your local work, this way, if there has
 been any changes/collaborations, you would not lose your changes when pushing but can make a pull first which would
 merge the changes with your local repository and keep everything together.
+
+HOW WOULD YOU COLLABORATE WITHOUT USING GIT OR GITHUB? WHAT WOULD BE EASIER, AND WHAT WOULD BE HARDER?
+
+By email, sending over the change that was made for approval and then applying it to the working project, it would
+make it a lot harder since they would need to check all without any help of the tools git has.
