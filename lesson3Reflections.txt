@@ -19,3 +19,9 @@ github's page) where clone you would be graving a repository (either from your u
 locally on your computer. Branches, on the other hand, are when you have a repository and you are trying something
 new, different, big change, or someone will be helping you but you want to keep the master version intact, you would
 create a branch where you can change without worry that the master work could be lost.
+
+WHAT IS THE BENEFIT OF HAVING A COPY OF THE LAST KNOWN STATE OF THE REMOTE STORED LOCALLY?
+
+It allows you to check with the online version once you are ready to push your local work, this way, if there has
+been any changes/collaborations, you would not lose your changes when pushing but can make a pull first which would
+merge the changes with your local repository and keep everything together.
